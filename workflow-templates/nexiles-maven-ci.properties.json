@@ -3,9 +3,6 @@
     "description": "Nexiles Organization CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "ci"
-    ],
-    "filePatterns": [
-        "pom.xml"
+        "Continuous integration", "Java", "Maven", "Spring", "JSF"
     ]
 }
