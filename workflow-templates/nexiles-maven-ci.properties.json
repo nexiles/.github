@@ -1,0 +1,11 @@
+{
+    "name": "Nexiles Maven CI",
+    "description": "Nexiles Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "ci"
+    ],
+    "filePatterns": [
+        "pom.xml"
+    ]
+}
